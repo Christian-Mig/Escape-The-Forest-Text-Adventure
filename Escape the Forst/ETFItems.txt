@@ -1,0 +1,50 @@
+1
+Medkit
+a small red bag containing various bandages and ointments, sure to match you up in a pinch
+h75
+1
+2
+Sharp rock
+A jagged rock that could be used as a weapon
+a30
+4
+3
+Flare gun
+Can be used to  a shoot flare at enemies
+a50
+1
+4
+Water bottle
+The water can replenish some of your health, you can take a few sips
+h25
+4
+5
+Red key
+Covered with blood...
+k1
+99
+6
+Beach key
+Key found in a box at the beach
+k2
+99
+7
+Tent Key
+Key found at the beach outside the cave
+k3
+99
+8
+Rusted key
+it is covered with rust and grim
+k4
+99
+9
+Strange coin
+You don't know what this is for
+k5
+99
+10
+Axe
+An old axe dulled from use but still sturdy
+A20
+99

@@ -1,0 +1,25 @@
+1
+Trail path
+The crossing is blocked by a locked gate.
+You found a key in the wreckage earlier. Did you not?
+n
+2
+Bridge
+The bridge has the been raised and there is no other way to cross. There is a pot for a key
+There is a picture of a bunch of sand, like a beach
+s
+3
+Stone Gate
+This path is locked by a gate. There is a picture on the keyhole.
+The picture shows a small little tent.
+w
+4
+Stream log
+The log has a locked chain around it. Unlocking the chain would allow the log to fall in place.
+The lock has a crazy looking lock. Could have been modified by the cannibals.
+e
+5
+Phone lock
+You need to find a way to use the phone. Perhaps a coin?
+There's a lock for a coin with mutant markings on it.
+n

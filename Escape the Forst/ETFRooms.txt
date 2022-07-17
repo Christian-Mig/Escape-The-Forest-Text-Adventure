@@ -1,0 +1,90 @@
+1
+Beginning
+You wake up and look around to find yourself in an airplane that has crashed onto an island. You seem to be the only conscious one in the airplane.\nThere's an opening to exit the plane towards the SOUTH.
+2
+Forest
+You exit the plane and find yourself in a forest. There's people's belongings all over the place from the crash. \n. You notice a trail that leads to the EAST.
+3
+Stream
+You approach a stream and past it, there's a trail leading to the NORTH. You must cross in order to move ahead. To cross successfully, you must solve this puzzle.
+4
+Field
+After crossing the stream, you arrive at a large field of grass. Despite the fog, you can make out what seems to be trees towards the EAST.
+5
+End of the Field
+You reach the end of the field and you're met with a newfound trail heading EAST and a beach towards the SOUTH.
+6
+Beach
+You head towards the beach to find wrecked shipping containers. You find a box that has a key, which may be useful in the future. This seems like a dead end.
+7
+Foggy Forest
+You follow the trail into the foggy forest and keep walking for a while. To the NORTH, a pitched tent comes into view.
+8
+Tent
+You arrive at the tent. Nobody's there, but you find a medkit and an axe. These may be useful in the future. You hear noises coming from the WEST.\nIt may be a good idea to go the opposite direction from the noises.
+9
+Cave Entrance
+You arrive at a cave that is to your EAST. The floors and wall are covered with blood and bones.
+10
+Upper Cave
+You enter the dimly-lit cave. You cautiously walk around and find a flare gun on the ground. You notice a rope that leads down what seems to be a cliff towards the SOUTH.
+11
+Lower Cave
+As you get closer to the ground, You see a massive pile of bones and strange totems surrounding it, it looks like this room is lived in
+12
+Outside of Cave
+You make it out the cave safely. Towards the WEST, you can see another pitched tent on the beach and towards the SOUTH, you can see another trail\nthat seems like the only other way you can go.
+13
+Bridge
+You make it to a long wooden bridge that connects two cliffs together towards the SOUTH.
+14
+Beach Tent
+You arrive at the beach and head towards the tent. You find another key in there, this may be useful in the future. Seems like this is a dead end.
+15
+Body of Water
+After successfully crossing the bridge, you walk through the field until you see a body of water towards the SOUTH.
+16
+Stones
+You reach the body of water and notice a set of stones in the water that allows you to cross it leading to the WEST.
+17
+Gate
+After stepping on the stones, you follow the trail that leads you to a gate that seems to be locked. The trail continues on towards the WEST past the gate,\nbut you need to use a key to get through it.
+18
+Huts
+After opening the gate, you head towards the huts. You notice the trail leading NORTH past the huts, but see the fire is still warm and smell something rotten.
+19
+Log
+Following the trail, you arrive at a stream. There's a log over the stream that'll help you cross over towards the WEST.
+20
+Fork in the Road
+After defeating the creepy mutant, you follow the trail into the forest. The trail divides into two trails, one leading NORTH and the other leading WEST.
+21
+Trail
+You follow the trail up north. you notice another pitched tent ahead of you towards the NORTH.
+22
+Dead End
+You approach the tent that's pitched in the dead end. You check inside and, to your surprise, find nothing. As you exit the tent,\na cannibal comes running towards you! Deafeat the cannibal to exit the dead end.
+23
+Outside of Forest
+You cross the log and follow the trail that leads you to another forest towards the WEST.
+24
+Eerie Forest
+You enter the forest and sense this eerie feeling. This forest felt different than the rest, maybe that's a good thing? The trail leads NORTH.
+25
+Crowded Trees
+As you get deeper into the forest, you notice there's more and more trees making the forest dark and more crowded.\nThe trail seems more prominent because of this which is leading towards the NORTH.
+26
+Bottom of Cliff
+You keep walking on the trail until you reach a rope leading up a cliff towards the EAST.
+27
+Top of Cliff
+After climbing up the rope, you're met with even more trees. You notice a trail towards the SOUTH that is lit up with torches.
+28
+Bonfire
+You follow the lit up trail and arrive at a bonfire with in front of a strange building. It looks like it is not something that should belong here.
+29
+Building Entrance
+After defeating the Mutant Megan, you arrive at another locked gate of a building towards the NORTH. Use a key to unlock it.
+30
+Finish
+You made it safely into the building. You find a phone to call for help\nCongratulations, you finished the game!

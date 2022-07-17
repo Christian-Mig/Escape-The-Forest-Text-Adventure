@@ -1,0 +1,35 @@
+1
+Cannibals
+Almost nude aggressive humans, they have warpaint and some have weapons
+50
+10
+20
+e
+2
+Starving cannibals
+Skinny flesh eating deranged people. More aggressive than regular cannibals
+70
+15
+30
+w
+3
+Creepy Mutant Armsy
+Creepy mutant with many arms. They look gross and attack with aggression.
+80
+20
+30
+n
+4
+Virginia Creepy Mutant
+Female looking mutant with six legs and six arms. No facial features and makes creepy arachnid noises.
+70
+20
+15
+s
+5
+Mutant Megan
+Disgusting looking final enemy. It has many appendages and moves similar to a big humanoid spider. Very aggressive.
+100
+30
+30
+e
