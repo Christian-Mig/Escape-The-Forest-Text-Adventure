@@ -98,7 +98,7 @@ public class Commands {
 	private String getHelp() {
 		String help = "**Commands**\nLook (get info on current room)\nInspect <item_Name> (get info of selected item)"
 				+ " \nBackpack (see health and items in backpack)\nGet <item_Name> (take selected item from room)\nRemove <item_Name> (remove selected item from backpack)"
-				+ "\nFight (fight monsters in current room if available)\nXuse <item_Name> (uses selected item)\nHelp (Self-explanatory)";
+				+ "\nFight (fight monsters in current room if available)\nUse <item_Name> (uses selected item)\nHelp (Self-explanatory)";
 		//TODO create check for if room has puzzle; add puzzle hint too if true
 		//if(Room has puzzle) help += "\n\n" +getPuzzleHint;
 		if(current.getPuzzle() !=null) {help += "\n" + current.getPuzzle().getHint();}
