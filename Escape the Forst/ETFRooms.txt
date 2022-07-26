@@ -3,7 +3,7 @@ Beginning
 You wake up and look around to find yourself in an airplane that has crashed onto an island. You seem to be the only conscious one in the airplane.\nThere's an opening to exit the plane towards the SOUTH.
 2
 Forest
-You exit the plane and find yourself in a forest. There's people's belongings all over the place from the crash. \n. You notice a trail that leads to the EAST.
+You exit the plane and find yourself in a forest. There's people's belongings all over the place from the crash. \nYou notice a trail that leads to the EAST.
 3
 Stream
 You approach a stream and past it, there's a trail leading to the NORTH. You must cross in order to move ahead. To cross successfully, you must solve this puzzle.
@@ -63,7 +63,7 @@ Trail
 You follow the trail up north. you notice another pitched tent ahead of you towards the NORTH.
 22
 Dead End
-You approach the tent that's pitched in the dead end. You check inside and, to your surprise, find nothing. As you exit the tent,\na cannibal comes running towards you! Deafeat the cannibal to exit the dead end.
+You approach the tent that's pitched in the dead end. You check inside and, to your surprise, find nothing. As you exit the tent,\na cannibal comes running towards you! Defeat the cannibal to exit the dead end.
 23
 Outside of Forest
 You cross the log and follow the trail that leads you to another forest towards the WEST.

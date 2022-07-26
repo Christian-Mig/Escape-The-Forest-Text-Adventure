@@ -163,7 +163,9 @@ public class RoomDB {
 		instance.rooms.get(7).addItem(instance.rooms.get(7).getRoomItems(1-1));
 		instance.rooms.get(7).addItem(instance.rooms.get(7).getRoomItems(10-1));
 		instance.rooms.get(9).addItem(instance.rooms.get(9).getRoomItems(3-1));
-		instance.rooms.get(18).addItem(instance.rooms.get(7).getRoomItems(4-1));
+		instance.rooms.get(18).addItem(instance.rooms.get(18).getRoomItems(4-1));
+		instance.rooms.get(23).addItem(instance.rooms.get(23).getRoomItems(12-1));
+		instance.rooms.get(21).addItem(instance.rooms.get(21).getRoomItems(11-1));
 		
 		instance.rooms.get(8).setMonster(instance.rooms.get(8).getRoomMonsters(1-1));
 		instance.rooms.get(10).setMonster(instance.rooms.get(10).getRoomMonsters(2-1));
@@ -175,7 +177,7 @@ public class RoomDB {
 		instance.rooms.get(12).setPuzzle(instance.rooms.get(12).getRoomPuzzles(2-1)); //bridge
 		instance.rooms.get(16).setPuzzle(instance.rooms.get(16).getRoomPuzzles(3-1)); //stone
 		instance.rooms.get(25).setPuzzle(instance.rooms.get(25).getRoomPuzzles(4-1)); //stream
-		instance.rooms.get(29).setPuzzle(instance.rooms.get(29).getRoomPuzzles(5-1)); //phone
+		instance.rooms.get(28).setPuzzle(instance.rooms.get(28).getRoomPuzzles(5-1)); //phone
 		// 1= med, 2=rock, flare = 3, water =4, scrap =10
 		//keys
 		instance.rooms.get(1).addItem(instance.rooms.get(1).getRoomItems(5-1));//red

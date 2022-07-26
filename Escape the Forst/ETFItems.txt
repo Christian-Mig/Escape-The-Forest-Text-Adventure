@@ -10,8 +10,8 @@ a30
 4
 3
 Flare gun
-Can be used to  a shoot flare at enemies
-a50
+Can be used to shoot a powerful flare at enemies
+a70
 1
 4
 Water bottle
@@ -30,7 +30,7 @@ k2
 99
 7
 Tent Key
-Key found at the beach outside the cave
+Key found at the tent outside the cave
 k3
 99
 8
@@ -48,3 +48,13 @@ Axe
 An old axe dulled from use but still sturdy
 A20
 99
+11
+Rag
+A pair of socks, not very sterile but still useful as a bandage
+h15
+2
+12
+Bow
+a primative bow likely created by the cannibals, strong but only a few arrows with it
+a40
+3

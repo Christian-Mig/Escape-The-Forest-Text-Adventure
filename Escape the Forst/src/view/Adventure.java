@@ -30,7 +30,6 @@ public class Adventure {
 		ItemDB.getInstance().readItems();
 		MonsterDB.getInstance().readMonsters();
 		PuzzleDB.getInstance().readPuzzles();
-		//System.out.println("moo");
 		RoomDB.getInstrance();
 		RoomDB.main(args);
 		//System.out.println(ItemDB.getInstance().getItem(1));
